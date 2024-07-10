@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FrostweepGames/StreamingSpeechRecognition/Examples/GCSSR_Example_1/GCSSR_Example.unity
+    guid: fcb1fc02d0132054d8fa9129bd540ced
   m_configObjects: {}
